@@ -28,5 +28,5 @@ In order to execute this program you will need to install the following:
 
 ## Acknowledgments
 
-Created using the tututrial: [Spring Boot Security OAuth2 Example](https://www.devglan.com/spring-security/spring-boot-security-oauth2-example)
+Created using the tutotrial: [Spring Boot Security OAuth2 Example](https://www.devglan.com/spring-security/spring-boot-security-oauth2-example)
 
