@@ -16,8 +16,8 @@ public class AuthorizationServerConfig extends AuthorizationServerConfigurerAdap
     //I'm using in memory credentials but might switch to jdbc later
 
     static final String CLIENT_ID = "andrea-client";
-    static final String CLIENT_SECRET = "andrea-secret";
-    static final String GRANT_TYPE = "the_password";
+    static final String CLIENT_SECRET = "$2a$10$uMZlgQ8zqZFF5ixHMcZnBuTM0e2g4yE6p0QZzgkJA7EETad6jpE5a";
+    static final String GRANT_TYPE = "password";
     static final String AUTHORIZATION_CODE = "the_authorization_code";
     static final String REFRESH_TOKEN = "refreshed_token";
     static final String IMPLICIT = "implicit";
