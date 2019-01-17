@@ -8,7 +8,7 @@ This is a working example of spring boot security oauth2.
 
 You can get started utilizing this example by cloning the project to your local machine:
 ```
-$ git clone https://github.com/ashcreek/Oauth2Security.git
+$ git clone https://github.com/ashcreek/Oauth2Security_Implementation1.git
 ```
 Then use the .sql files in the database package to create the database.
 
